@@ -1,0 +1,1973 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MollaBackend.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MollaBackend.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\.gitattributes",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\.gitignore",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\LICENSE.md",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\README.md",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\build.php",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\build.php"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\dist\\AddTabs.css",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\dist\\AddTabs.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\dist\\AddTabs.js",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\dist\\AddTabs.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\AddTabs.js",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\AddTabs.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\addTabs.css",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\addTabs.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\addTabs.css.map",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\addTabs.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\addTabs.min.css",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\addTabs.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\addTabs.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\addTabs.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\addTabs.scss",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\addTabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\partials\\_addTabs.js",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\partials\\_addTabs.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\partials\\_addTabs.min.js",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\partials\\_addTabs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\partials\\_addTabs.scss",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\partials\\_addTabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\partials\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\src\\partials\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\test\\index.html",
+      "PackagePath": "staticwebassets\\assets\\Minimal-Handy-jQuery-Tabs-Plugin-AddTabs\\test\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\.gitattributes",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\.gitignore",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\.travis.yml",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\README.md",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\ROADMAP.md",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\ROADMAP.md"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\_config.json",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\_config.json"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\README.md",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\css\\docs.theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\css\\docs.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\bird_blue_32.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\bird_blue_32.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\download.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-drag.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-drag.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-modern.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-modern.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-module.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-module.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-options.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-options.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-responsive.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-responsive.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-zombie.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-zombie.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\owl-logo.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\owl-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\twitter_25.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\twitter_25.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\js\\foundation.min.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\js\\foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\README.md",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\foundation.min.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\highlight.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.map",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\animate.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\animate.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\autoheight.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\autoheight.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\autoplay.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\autoplay.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\autowidth.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\autowidth.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\basic.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\basic.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\center.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\center.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\demos.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\demos.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\events.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\events.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\lazyLoad.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\lazyLoad.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\merge.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\merge.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\mousewheel.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\mousewheel.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\responsive.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\responsive.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\rtl.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\rtl.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\stagepadding.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\stagepadding.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\test.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\test.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\urlhashnav.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\urlhashnav.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\video.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\video.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\api-classes.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\api-classes.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\api-events.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\api-events.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\api-options.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\api-options.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-buildin-plugins.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-buildin-plugins.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-external.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-external.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-plugin-api.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-plugin-api.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-styles.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-styles.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\started-faq.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\started-faq.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\started-installation.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\started-installation.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\started-welcome.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\started-welcome.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\support-changelog.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\support-changelog.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\support-contact.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\support-contact.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\support-contributing.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\support-contributing.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\index.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\bird_blue_32.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\bird_blue_32.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\download.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-drag.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-drag.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-modern.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-modern.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-module.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-module.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-options.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-options.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-responsive.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-responsive.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-zombie.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-zombie.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\owl-logo.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\owl-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\twitter_25.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\twitter_25.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\foundation.min.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\_settings.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\_settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\custom.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\demos.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\demos.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.theme.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.css.map",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\foundation.min.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\highlight.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.map",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\classes.json",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\classes.json"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\events.json",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\events.json"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\features.json",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\features.json"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\options.json",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\options.json"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\helpers\\modulo.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\helpers\\modulo.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\helpers\\test.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\helpers\\test.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\demos.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\demos.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\docs.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\docs.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\home.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\home.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\animate.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\animate.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoheight.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoheight.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoplay.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoplay.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autowidth.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autowidth.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\basic.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\basic.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\center.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\center.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\demos.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\demos.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\events.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\events.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\lazyLoad.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\lazyLoad.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\merge.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\merge.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\mousewheel.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\mousewheel.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\responsive.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\responsive.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\rtl.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\rtl.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\stagepadding.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\stagepadding.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\test.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\test.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\urlhashnav.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\urlhashnav.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\video.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\video.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-classes.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-classes.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-events.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-events.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-options.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-options.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-buildin-plugins.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-buildin-plugins.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-external.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-external.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-plugin-api.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-plugin-api.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-styles.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-styles.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-faq.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-faq.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-installation.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-installation.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-welcome.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-welcome.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-changelog.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-changelog.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contact.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contact.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contributing.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contributing.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\index.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\index.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\footer.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\footer.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\head.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\head.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\header.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\header.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-carousel.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-carousel.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-features.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-features.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-hero.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-hero.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-teaser-text.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-teaser-text.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\javascripts.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\javascripts.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\releated-docs.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\releated-docs.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\sidenav-docs.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\sidenav-docs.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\title.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\title.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\vendors.hbs",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\vendors.hbs"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\package-lock.json",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\package.json",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\img\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\img\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\img\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\img\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\.jscsrc",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\.jscsrc"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\.jshintrc",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.animate.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.animate.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.autoheight.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.autoheight.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.autoplay.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.autoplay.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.autorefresh.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.autorefresh.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.hash.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.hash.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.lazyload.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.lazyload.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.navigation.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.navigation.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.support.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.support.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.support.modernizr.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.support.modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.video.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.video.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_animate.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_animate.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_autoheight.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_autoheight.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_lazyload.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_lazyload.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_theme.default.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_theme.default.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_theme.green.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_theme.green.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_theme.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_video.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_video.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.css.map",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.css.map",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.css.map",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.scss",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\test\\index.html",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\test\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\test\\unit\\autoplay.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\test\\unit\\autoplay.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\OwlCarousel2-2.3.4\\test\\unit\\core.js",
+      "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\test\\unit\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\image-pan-zoom-hover\\index.html",
+      "PackagePath": "staticwebassets\\assets\\image-pan-zoom-hover\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\image-pan-zoom-hover\\src\\Nzoom.min.js",
+      "PackagePath": "staticwebassets\\assets\\image-pan-zoom-hover\\src\\Nzoom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\imgs\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\About\\about-bgImg.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\About\\about-bgImg.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\About\\customer-user1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\About\\customer-user1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\About\\customer-user2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\About\\customer-user2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\About\\member-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\About\\member-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\About\\member-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\About\\member-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\About\\member-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\About\\member-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\About\\whoweare-part1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\About\\whoweare-part1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\About\\whoweare-part2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\About\\whoweare-part2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Account\\backImg.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Account\\backImg.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Blog\\adverts.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Blog\\adverts.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Blog\\advs.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Blog\\advs.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Blog\\blog-bigP-1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Blog\\blog-bigP-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Blog\\blog-bigP-2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Blog\\blog-bigP-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Blog\\blog-bigP-3.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Blog\\blog-bigP-3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Blog\\blog-bigP-4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Blog\\blog-bigP-4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Blog\\blog-bigP-5.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Blog\\blog-bigP-5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Cart\\header-bgImg.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Cart\\header-bgImg.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Contact\\contact-header-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Contact\\contact-header-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Contact\\our-stores.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Contact\\our-stores.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Contact\\out-stores2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Contact\\out-stores2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\backgroundImgP2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\backgroundImgP2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\brand1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\brand1.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\brand2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\brand2.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\brand3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\brand3.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\brand4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\brand4.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\brand5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\brand5.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\brand6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\brand6.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\brand7.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\brand7.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\brand8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\brand8.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\brand9.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\brand9.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\deals-backgrounImg.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\deals-backgrounImg.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\featured1-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\featured1-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\featured1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\featured1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\featured2-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\featured2-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\featured2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\featured2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\featured3-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\featured3-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\featured3.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\featured3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\featured4-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\featured4-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\featured4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\featured4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\featured5-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\featured5-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\featured5.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\featured5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\footer-cards.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\footer-cards.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\molla-logo.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\molla-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\molla-logo2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\molla-logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\rate1-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\rate1-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\rate1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\rate1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\rate2-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\rate2-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\rate2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\rate2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\rate3-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\rate3-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\rate3.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\rate3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\rate4-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\rate4-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\rate4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\rate4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\rate5-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\rate5-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\rate5.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\rate5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\rated6-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\rated6-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\rated6.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\rated6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\sale1-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\sale1-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\sale1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\sale1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\sale2-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\sale2-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\sale2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\sale2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\sale3-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\sale3-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\sale3.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\sale3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\sale4-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\sale4-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\sale4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\sale4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\sale5-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\sale5-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\sale5.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\sale5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\sale6-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\sale6-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\sale6.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\sale6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\slider-1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\slider-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\slider-2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\slider-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\sponsor-backImg.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\sponsor-backImg.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\top-1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\top-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\top-2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\top-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\top-3.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\top-3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Home\\trending-fixed.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Home\\trending-fixed.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Product Detail\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Product Detail\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Product Detail\\left-2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Product Detail\\left-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Product Detail\\left.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Product Detail\\left.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Product Detail\\middle.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Product Detail\\middle.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Product Detail\\slider1-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Product Detail\\slider1-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Product Detail\\slider1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Product Detail\\slider1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Product Detail\\slider2-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Product Detail\\slider2-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Product Detail\\slider2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Product Detail\\slider2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Product Detail\\slider3-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Product Detail\\slider3-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Product Detail\\slider3.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Product Detail\\slider3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Product Detail\\slider4-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Product Detail\\slider4-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Product Detail\\slider4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Product Detail\\slider4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Product Detail\\slider5-hover.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Product Detail\\slider5-hover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Product Detail\\slider5.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Product Detail\\slider5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Shop\\shop1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Shop\\shop1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Shop\\shop2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Shop\\shop2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Shop\\shop3.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Shop\\shop3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Shop\\shop4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Shop\\shop4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\imgs\\Shop\\shop5.jpeg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\Shop\\shop5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\.babelrc",
+      "PackagePath": "staticwebassets\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\.babelrc"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\.eslintrc.yaml",
+      "PackagePath": "staticwebassets\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\.eslintrc.yaml"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\.gitignore",
+      "PackagePath": "staticwebassets\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\.npmrc",
+      "PackagePath": "staticwebassets\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\.npmrc"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\.yarnrc",
+      "PackagePath": "staticwebassets\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\.yarnrc"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\README.md",
+      "PackagePath": "staticwebassets\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\demo.html",
+      "PackagePath": "staticwebassets\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\dist\\jquery.inputsearch.js",
+      "PackagePath": "staticwebassets\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\dist\\jquery.inputsearch.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\img\\screenshot.png",
+      "PackagePath": "staticwebassets\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\img\\screenshot.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\img\\ui-icon-clear.png",
+      "PackagePath": "staticwebassets\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\img\\ui-icon-clear.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\img\\ui-icon-search.png",
+      "PackagePath": "staticwebassets\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\img\\ui-icon-search.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\package.json",
+      "PackagePath": "staticwebassets\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\src\\jquery.inputsearch.js",
+      "PackagePath": "staticwebassets\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\src\\jquery.inputsearch.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\yarn.lock",
+      "PackagePath": "staticwebassets\\assets\\jQuery-Plugin-For-Enhancing-The-Standard-Html-Search-Input-Search-Input\\yarn.lock"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\js\\about.js",
+      "PackagePath": "staticwebassets\\assets\\js\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\js\\account.js",
+      "PackagePath": "staticwebassets\\assets\\js\\account.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\js\\blog.js",
+      "PackagePath": "staticwebassets\\assets\\js\\blog.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\js\\cart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\js\\home.js",
+      "PackagePath": "staticwebassets\\assets\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\js\\productdetail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\productdetail.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\js\\shop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\shop.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\js\\wishlist.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wishlist.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\About\\about.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\About\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\About\\about.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\About\\about.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\About\\about.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\About\\about.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Account\\account.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\Account\\account.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Account\\account.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\Account\\account.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Account\\account.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\Account\\account.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Blog\\blog.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\Blog\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Blog\\blog.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\Blog\\blog.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Blog\\blog.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\Blog\\blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Cart\\cart.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\Cart\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Cart\\cart.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\Cart\\cart.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Cart\\cart.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\Cart\\cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Contact\\contact.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\Contact\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Contact\\contact.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\Contact\\contact.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Contact\\contact.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\Contact\\contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Home\\home.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\Home\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Home\\home.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\Home\\home.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Home\\home.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\Home\\home.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Product Detail\\productdetail.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\Product Detail\\productdetail.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Product Detail\\productdetail.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\Product Detail\\productdetail.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Product Detail\\productdetail.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\Product Detail\\productdetail.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Shop\\shop.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\Shop\\shop.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Shop\\shop.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\Shop\\shop.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Shop\\shop.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\Shop\\shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Wishlist\\wishlist.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\Wishlist\\wishlist.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Wishlist\\wishlist.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\Wishlist\\wishlist.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\scss\\Wishlist\\wishlist.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\Wishlist\\wishlist.scss"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\zoom-master\\LICENSE.md",
+      "PackagePath": "staticwebassets\\assets\\zoom-master\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\zoom-master\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\zoom-master\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\zoom-master\\daisy.jpg",
+      "PackagePath": "staticwebassets\\assets\\zoom-master\\daisy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\zoom-master\\demo.html",
+      "PackagePath": "staticwebassets\\assets\\zoom-master\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\zoom-master\\grab.cur",
+      "PackagePath": "staticwebassets\\assets\\zoom-master\\grab.cur"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\zoom-master\\grabbed.cur",
+      "PackagePath": "staticwebassets\\assets\\zoom-master\\grabbed.cur"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\zoom-master\\icon.png",
+      "PackagePath": "staticwebassets\\assets\\zoom-master\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\zoom-master\\jquery.zoom.js",
+      "PackagePath": "staticwebassets\\assets\\zoom-master\\jquery.zoom.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\zoom-master\\jquery.zoom.min.js",
+      "PackagePath": "staticwebassets\\assets\\zoom-master\\jquery.zoom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\zoom-master\\package.json",
+      "PackagePath": "staticwebassets\\assets\\zoom-master\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\zoom-master\\readme.md",
+      "PackagePath": "staticwebassets\\assets\\zoom-master\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\assets\\zoom-master\\roxy.jpg",
+      "PackagePath": "staticwebassets\\assets\\zoom-master\\roxy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\.package-lock.json",
+      "PackagePath": "staticwebassets\\node_modules\\.package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\animate.compat.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\animate.compat.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\animate.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\package.json",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\_base.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\_base.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\_vars.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\_vars.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\animate.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\attention_seekers\\bounce.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\attention_seekers\\bounce.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\attention_seekers\\flash.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\attention_seekers\\flash.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\attention_seekers\\headShake.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\attention_seekers\\headShake.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\attention_seekers\\heartBeat.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\attention_seekers\\heartBeat.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\attention_seekers\\jello.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\attention_seekers\\jello.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\attention_seekers\\pulse.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\attention_seekers\\pulse.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\attention_seekers\\rubberBand.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\attention_seekers\\rubberBand.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\attention_seekers\\shake.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\attention_seekers\\shake.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\attention_seekers\\shakeX.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\attention_seekers\\shakeX.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\attention_seekers\\shakeY.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\attention_seekers\\shakeY.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\attention_seekers\\swing.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\attention_seekers\\swing.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\attention_seekers\\tada.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\attention_seekers\\tada.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\attention_seekers\\wobble.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\attention_seekers\\wobble.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\back_entrances\\backInDown.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\back_entrances\\backInDown.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\back_entrances\\backInLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\back_entrances\\backInLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\back_entrances\\backInRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\back_entrances\\backInRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\back_entrances\\backInUp.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\back_entrances\\backInUp.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\back_exits\\backOutDown.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\back_exits\\backOutDown.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\back_exits\\backOutLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\back_exits\\backOutLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\back_exits\\backOutRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\back_exits\\backOutRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\back_exits\\backOutUp.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\back_exits\\backOutUp.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\bouncing_entrances\\bounceIn.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\bouncing_entrances\\bounceIn.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\bouncing_entrances\\bounceInDown.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\bouncing_entrances\\bounceInDown.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\bouncing_entrances\\bounceInLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\bouncing_entrances\\bounceInLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\bouncing_entrances\\bounceInRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\bouncing_entrances\\bounceInRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\bouncing_entrances\\bounceInUp.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\bouncing_entrances\\bounceInUp.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\bouncing_exits\\bounceOut.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\bouncing_exits\\bounceOut.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\bouncing_exits\\bounceOutDown.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\bouncing_exits\\bounceOutDown.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\bouncing_exits\\bounceOutLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\bouncing_exits\\bounceOutLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\bouncing_exits\\bounceOutRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\bouncing_exits\\bounceOutRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\bouncing_exits\\bounceOutUp.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\bouncing_exits\\bounceOutUp.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_entrances\\fadeIn.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_entrances\\fadeIn.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_entrances\\fadeInBottomLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_entrances\\fadeInBottomLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_entrances\\fadeInBottomRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_entrances\\fadeInBottomRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_entrances\\fadeInDown.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_entrances\\fadeInDown.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_entrances\\fadeInDownBig.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_entrances\\fadeInDownBig.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_entrances\\fadeInLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_entrances\\fadeInLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_entrances\\fadeInLeftBig.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_entrances\\fadeInLeftBig.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_entrances\\fadeInRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_entrances\\fadeInRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_entrances\\fadeInRightBig.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_entrances\\fadeInRightBig.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_entrances\\fadeInTopLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_entrances\\fadeInTopLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_entrances\\fadeInTopRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_entrances\\fadeInTopRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_entrances\\fadeInUp.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_entrances\\fadeInUp.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_entrances\\fadeInUpBig.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_entrances\\fadeInUpBig.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_exits\\fadeOut.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_exits\\fadeOut.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_exits\\fadeOutBottomLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_exits\\fadeOutBottomLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_exits\\fadeOutBottomRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_exits\\fadeOutBottomRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_exits\\fadeOutDown.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_exits\\fadeOutDown.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_exits\\fadeOutDownBig.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_exits\\fadeOutDownBig.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_exits\\fadeOutLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_exits\\fadeOutLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_exits\\fadeOutLeftBig.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_exits\\fadeOutLeftBig.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_exits\\fadeOutRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_exits\\fadeOutRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_exits\\fadeOutRightBig.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_exits\\fadeOutRightBig.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_exits\\fadeOutTopLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_exits\\fadeOutTopLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_exits\\fadeOutTopRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_exits\\fadeOutTopRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_exits\\fadeOutUp.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_exits\\fadeOutUp.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\fading_exits\\fadeOutUpBig.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\fading_exits\\fadeOutUpBig.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\flippers\\flip.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\flippers\\flip.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\flippers\\flipInX.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\flippers\\flipInX.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\flippers\\flipInY.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\flippers\\flipInY.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\flippers\\flipOutX.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\flippers\\flipOutX.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\flippers\\flipOutY.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\flippers\\flipOutY.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\lightspeed\\lightSpeedInLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\lightspeed\\lightSpeedInLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\lightspeed\\lightSpeedInRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\lightspeed\\lightSpeedInRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\lightspeed\\lightSpeedOutLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\lightspeed\\lightSpeedOutLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\lightspeed\\lightSpeedOutRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\lightspeed\\lightSpeedOutRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\rotating_entrances\\rotateIn.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\rotating_entrances\\rotateIn.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\rotating_entrances\\rotateInDownLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\rotating_entrances\\rotateInDownLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\rotating_entrances\\rotateInDownRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\rotating_entrances\\rotateInDownRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\rotating_entrances\\rotateInUpLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\rotating_entrances\\rotateInUpLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\rotating_entrances\\rotateInUpRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\rotating_entrances\\rotateInUpRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\rotating_exits\\rotateOut.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\rotating_exits\\rotateOut.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\rotating_exits\\rotateOutDownLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\rotating_exits\\rotateOutDownLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\rotating_exits\\rotateOutDownRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\rotating_exits\\rotateOutDownRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\rotating_exits\\rotateOutUpLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\rotating_exits\\rotateOutUpLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\rotating_exits\\rotateOutUpRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\rotating_exits\\rotateOutUpRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\sliding_entrances\\slideInDown.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\sliding_entrances\\slideInDown.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\sliding_entrances\\slideInLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\sliding_entrances\\slideInLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\sliding_entrances\\slideInRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\sliding_entrances\\slideInRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\sliding_entrances\\slideInUp.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\sliding_entrances\\slideInUp.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\sliding_exits\\slideOutDown.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\sliding_exits\\slideOutDown.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\sliding_exits\\slideOutLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\sliding_exits\\slideOutLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\sliding_exits\\slideOutRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\sliding_exits\\slideOutRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\sliding_exits\\slideOutUp.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\sliding_exits\\slideOutUp.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\specials\\hinge.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\specials\\hinge.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\specials\\jackInTheBox.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\specials\\jackInTheBox.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\specials\\rollIn.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\specials\\rollIn.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\specials\\rollOut.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\specials\\rollOut.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\zooming_entrances\\zoomIn.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\zooming_entrances\\zoomIn.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\zooming_entrances\\zoomInDown.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\zooming_entrances\\zoomInDown.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\zooming_entrances\\zoomInLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\zooming_entrances\\zoomInLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\zooming_entrances\\zoomInRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\zooming_entrances\\zoomInRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\zooming_entrances\\zoomInUp.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\zooming_entrances\\zoomInUp.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\zooming_exits\\zoomOut.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\zooming_exits\\zoomOut.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\zooming_exits\\zoomOutDown.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\zooming_exits\\zoomOutDown.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\zooming_exits\\zoomOutLeft.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\zooming_exits\\zoomOutLeft.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\zooming_exits\\zoomOutRight.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\zooming_exits\\zoomOutRight.css"
+    },
+    {
+      "Id": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Molla Backend\\MollaBackend\\MollaBackend\\wwwroot\\node_modules\\animate.css\\source\\zooming_exits\\zoomOutUp.css",
+      "PackagePath": "staticwebassets\\node_modules\\animate.css\\source\\zooming_exits\\zoomOutUp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MollaBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MollaBackend.props",
+      "PackagePath": "build\\MollaBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MollaBackend.props",
+      "PackagePath": "buildMultiTargeting\\MollaBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MollaBackend.props",
+      "PackagePath": "buildTransitive\\MollaBackend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
